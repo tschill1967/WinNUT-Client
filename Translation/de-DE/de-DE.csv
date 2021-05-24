@@ -18,11 +18,11 @@ To validate,Gawindx,Cancel,Stornieren
 To validate,Gawindx,Cancellation of the Extinguishing Process,Aufhebung des Löschprozesses
 To validate,Gawindx,Check for updates.,Auf Updates prüfen.
 To validate,Gawindx,Checks for updates at startup.,Sucht beim Start nach Updates.
-To validate,Gawindx,Clear,Leer
+To validate,Gawindx,Clear,Leeren
 To validate,Gawindx,Close,Schließen
 To validate,Gawindx,Close to Systray,In der Nähe von Systray
 To validate,Gawindx,Conditions met for launching the Extinguishing Process,Voraussetzungen für den Start des Löschprozesses
-To validate,Gawindx,Connected,In Verbindung gebracht
+To validate,Gawindx,Connected,Verbunden
 To validate,Gawindx,Connection,Verbindung
 To validate,Gawindx,Connection to Nut Host {0}:{1} Established,Verbindung zum Nut Host {0}:{1} hergestellt
 To validate,Gawindx,Connection to Nut Host {0}:{1} Failed: {2},Verbindung zum Nut-Host {0}:{1} fehlgeschlagen: {2}
@@ -32,25 +32,25 @@ To validate,Gawindx,Create LogFile,LogFile erstellen
 To validate,Gawindx,Daily,Täglich
 To validate,Gawindx,Debug,Debuggen
 To validate,Gawindx,Delay Between Verification,Verzögerung zwischen der Überprüfung
-To validate,Gawindx,Delay to Shutdown (sec),Verzögerung beim Herunterfahren (Sek.)
+To validate,Gawindx,Delay to Shutdown (sec),Verzögerung bis zum Herunterfahren (Sek.)
 To validate,Gawindx,Delete log file.,Protokolldatei löschen.
 To validate,Gawindx,Description :,Beschreibung :
 To validate,Gawindx,Devellopement,Entwicklung
 To validate,Gawindx,Disconnect,Trennen
 To validate,Gawindx,Disconnected from Nut Host,Vom Nut Host getrennt
 To validate,Gawindx,Download New Version from :,Neue Version herunterladen von :
-To validate,Gawindx,Error,Error
-To validate,Gawindx,Exit,Ausgang
+To validate,Gawindx,Error,Fehler
+To validate,Gawindx,Exit,Beenden
 To validate,Gawindx,Extinction In Progress,Aussterben im Gange
 To validate,Gawindx,File,Datei
 To validate,Gawindx,Firmware :,Firmware:
 To validate,Gawindx,Frequency,Frequenz
 To validate,Gawindx,Frequency of verification.,Häufigkeit der Überprüfung.
 To validate,Gawindx,Frequency Supply,Frequenzversorgung.
-To validate,Gawindx,Grace Delay to Shutdown (sec),Grace Verzögerung beim Herunterfahren (Sek.)
+To validate,Gawindx,Grace Delay to Shutdown (sec),Grace Verzögerung bis zum Herunterfahren (Sek.)
 To validate,Gawindx,Grace Time,Grace Time
 To validate,Gawindx,Help,Hilfe
-To validate,Gawindx,Hibernate,Überwintern
+To validate,Gawindx,Hibernate,Ruhezustand
 To validate,Gawindx,Hide ChangeLog,ChangeLog ausblenden
 To validate,Gawindx,Immediate Shutdown,Sofortiges Herunterfahren
 To validate,Gawindx,Immediate stop action,Sofortige Stoppaktion
@@ -89,7 +89,7 @@ To validate,Gawindx,Monthly,Monatlich
 To validate,Gawindx,Name :,Name :
 To validate,Gawindx,No Update Available,Kein Update verfügbar
 To validate,Gawindx,Not Connected,Nicht verbunden
-To validate,Gawindx,Notice,Notice
+To validate,Gawindx,Notice,Notiz
 To validate,Gawindx,NUT host,NUT Host
 To validate,Gawindx,NUT Port,NUT Port
 To validate,Gawindx,Nut server address. Accepted value: IPV4 / IPV6 / FQDN address.,Nut Server Adresse. Akzeptierter Wert: IPV4 / IPV6 / FQDN-Adresse.
@@ -116,7 +116,7 @@ To validate,Gawindx,Restarting WinNUT after waking up from Windows.,Neustart von
 To validate,Gawindx,Sends in Systray at closing.,Sendet beim Schließen in Systray.
 To validate,Gawindx,Serial :,Seriennummer:
 To validate,Gawindx,Sets the input frequency if not supplied by the UPS.,Legt die Eingangsfrequenz fest wenn diese nicht von der USV geliefert wird.
-To validate,Gawindx,Settings,die Einstellungen
+To validate,Gawindx,Settings,Einstellungen
 To validate,Gawindx,Show ChangeLog,ChangeLog anzeigen
 To validate,Gawindx,Shutdown,Shutdown
 To validate,Gawindx,Shutdown if battery lower than,Herunterfahren wenn die Batterie niedriger als ist
